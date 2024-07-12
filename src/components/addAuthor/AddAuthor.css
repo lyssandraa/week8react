@@ -7,10 +7,6 @@
   align-items: center;
 }
 
-.wrapper h3 {
-  font-size: 20px;
-}
-
 form {
   display: flex;
   flex-direction: column;
@@ -25,11 +21,6 @@ input {
   border-color: white;
   height: 25px;
   border-radius: 5px;
-}
-
-::placeholder {
-  color: white;
-  opacity: 1;
 }
 
 button {
