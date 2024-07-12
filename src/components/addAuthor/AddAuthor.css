@@ -1,0 +1,29 @@
+.wrapper {
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+input {
+  background-color: #ec729c;
+  color: white;
+  border-color: white;
+  height: 25px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #ec729c;
+  width: 50%;
+}

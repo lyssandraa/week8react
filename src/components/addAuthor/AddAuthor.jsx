@@ -15,7 +15,7 @@ const AddAuthor = () => {
   };
 
   return (
-    <div>
+    <div className="wrapper">
       <form onSubmit={submitHandler}>
         <input
           placeholder="Author name"
